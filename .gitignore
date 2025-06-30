@@ -1,0 +1,9 @@
+# common patterns
+*.DS_Store
+*.swp
+*.swo
+*.tmp
+*.log
+
+output.png
+output/
