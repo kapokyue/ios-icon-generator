@@ -32,9 +32,9 @@ chmod 777 ios-icon-generator.sh
 ```
 
 2. Run
-	
+
 ```bash
-smou:ios-icon-generator $ ./ios-icon-generator.sh 1024.png ~/output/
+smou:ios-icon-generator $ ./ios-icon-generator.sh output.png output/
 [INFO] Generate Icon-16.png ...
 [INFO] Generate Icon-16@2x.png ...
 [INFO] Generate Icon-32.png ...
@@ -69,7 +69,7 @@ PS: You can find out the icons in ~/output directory.
 
 ### Refer
 * [iOS Icons Size](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/)
-* [macOS Icons Size](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/)	
+* [macOS Icons Size](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/)
 * [watchOS Icons Size](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/home-screen-icons/)
 
 ### History
